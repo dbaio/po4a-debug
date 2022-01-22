@@ -1,0 +1,29 @@
+---
+title: Why you should use a BSD style license for your Open Source Project
+authors:
+  - author: Bruce Montague
+    email: brucem@alumni.cse.ucsc.edu
+trademarks: ["freebsd", "intel", "general"]
+description: Why you should use a BSD style license for your Open Source Project
+tags: ["bsdl", "gpl", "FreeBSD License"]
+---
+
+= Why you should use a BSD style license for your Open Source Project
+:doctype: article
+:toc: macro
+:toclevels: 1
+:icons: font
+:sectnums:
+:sectnumlevels: 6
+:source-highlighter: rouge
+:experimental:
+:images-path: articles/bsdl-gpl/
+
+toc::[]
+
+[[intro]]
+== Introduction
+
+This document makes a case for using a BSD style license for software and data;
+specifically it recommends using a BSD style license in place of the GPL.
+It can also be read as a BSD versus GPL Open Source License introduction and summary.
