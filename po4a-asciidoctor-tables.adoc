@@ -1,0 +1,47 @@
+== Typographic Conventions
+
+This table describes the typographic conventions used in this book.
+
+[.informaltable]
+[cols="1,2", frame="none", options="header"]
+|===
+| Meaning
+| Examples
+
+
+|The names of commands.
+|Use `ls -l` to list all files.
+
+|The names of files.
+|Edit [.filename]#.login#.
+
+|On-screen computer output.
+a|
+
+[source,shell]
+....
+You have mail.
+....
+
+
+|What the user types, contrasted with on-screen computer output.
+a|
+
+[source,shell]
+....
+% date +"The time is %H:%M"
+The time is 09:18
+....
+
+|User and group names.
+|Only `root` can do this.
+
+|Emphasis.
+|The user _must_ do this.
+
+|Text that the user is expected to replace with the actual text.
+|To search for a keyword in the manual pages, type `man -k _keyword_`
+
+|Environment variables.
+|`$HOME` is set to the user's home directory.
+|===

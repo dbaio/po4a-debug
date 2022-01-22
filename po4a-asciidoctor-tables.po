@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR The FreeBSD Project
+# This file is distributed under the same license as the FreeBSD Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FreeBSD Documentation VERSION\n"
+"POT-Creation-Date: 2022-01-22 13:18-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ==
+#: po4a-asciidoctor-tables.adoc:1
+#, no-wrap
+msgid "Typographic Conventions"
+msgstr ""
+
+#. type: Plain text
+#: po4a-asciidoctor-tables.adoc:4
+msgid "This table describes the typographic conventions used in this book."
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-tables.adoc:21
+#, no-wrap
+msgid ""
+"| Meaning\n"
+"| Examples\n"
+"\n"
+"\n"
+"|The names of commands.\n"
+"|Use `ls -l` to list all files.\n"
+"\n"
+"|The names of files.\n"
+"|Edit [.filename]#.login#.\n"
+"\n"
+"|On-screen computer output.\n"
+"a|\n"
+"\n"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-tables.adoc:30
+msgid ""
+"....  You have mail.  ....  |What the user types, contrasted with on-screen "
+"computer output.  a|"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-tables.adoc:47
+msgid ""
+"....  % date +\"The time is %H:%M\" The time is 09:18 ....  |User and group "
+"names.  |Only `root` can do this.  |Emphasis.  |The user _must_ do this.  "
+"|Text that the user is expected to replace with the actual text.  |To search "
+"for a keyword in the manual pages, type `man -k _keyword_` |Environment "
+"variables.  |`$HOME` is set to the user's home directory."
+msgstr ""

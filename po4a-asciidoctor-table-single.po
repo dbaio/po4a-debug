@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR The FreeBSD Project
+# This file is distributed under the same license as the FreeBSD Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FreeBSD Documentation VERSION\n"
+"POT-Creation-Date: 2022-01-22 13:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: po4a-asciidoctor-table-single.adoc:2
+msgid ""
+"Single table from "
+"link:https://docs.asciidoctor.org/asciidoc/latest/tables/build-a-basic-table/[Asciidoctor "
+"Docs]:"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-table-single.adoc:15
+#, no-wrap
+msgid ""
+"|Cell in column 1, header row |Cell in column 2, header row\n"
+"\n"
+"|Cell in column 1, row 2\n"
+"|Cell in column 2, row 2\n"
+"\n"
+"|Cell in column 1, row 3\n"
+"|Cell in column 2, row 3\n"
+"\n"
+"|Cell in column 1, row 4\n"
+"|Cell in column 2, row 4\n"
+msgstr ""

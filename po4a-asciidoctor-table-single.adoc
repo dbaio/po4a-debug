@@ -1,0 +1,15 @@
+Single table from link:https://docs.asciidoctor.org/asciidoc/latest/tables/build-a-basic-table/[Asciidoctor Docs]:
+
+[cols="1,1"]
+|===
+|Cell in column 1, header row |Cell in column 2, header row
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+
+|Cell in column 1, row 4
+|Cell in column 2, row 4
+|===
