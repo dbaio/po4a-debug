@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: FreeBSD Documentation VERSION\n"
-"POT-Creation-Date: 2022-01-22 13:23-0300\n"
+"POT-Creation-Date: 2022-01-22 15:09-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,17 +25,49 @@ msgid ""
 msgstr ""
 
 #. type: Table
+#: po4a-asciidoctor-table-single.adoc:5
+#, no-wrap
+msgid "Cell in column 1, header row"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-table-single.adoc:7
+#, no-wrap
+msgid "Cell in column 2, header row"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-table-single.adoc:8
+#, no-wrap
+msgid "Cell in column 1, row 2"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-table-single.adoc:10
+#, no-wrap
+msgid "Cell in column 2, row 2"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-table-single.adoc:11
+#, no-wrap
+msgid "Cell in column 1, row 3"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-table-single.adoc:13
+#, no-wrap
+msgid "Cell in column 2, row 3"
+msgstr ""
+
+#. type: Table
+#: po4a-asciidoctor-table-single.adoc:14
+#, no-wrap
+msgid "Cell in column 1, row 4"
+msgstr ""
+
+#. type: Table
 #: po4a-asciidoctor-table-single.adoc:15
 #, no-wrap
-msgid ""
-"|Cell in column 1, header row |Cell in column 2, header row\n"
-"\n"
-"|Cell in column 1, row 2\n"
-"|Cell in column 2, row 2\n"
-"\n"
-"|Cell in column 1, row 3\n"
-"|Cell in column 2, row 3\n"
-"\n"
-"|Cell in column 1, row 4\n"
-"|Cell in column 2, row 4\n"
+msgid "Cell in column 2, row 4"
 msgstr ""
