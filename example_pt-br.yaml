@@ -1,0 +1,10 @@
+---
+authors:
+  -
+    author: 'Yar Tikhiy'
+    email: yar@FreeBSD.org
+copyright: '2005-2006, 2012 The FreeBSD Project'
+description: 'Um guia para escrever novos scripts rc.d e entender os já escritos'
+tags: '["rc.d", "scripting", "guide", "tutorial", "FreeBSD"]'
+title: 'Scripts rc.d práticos no BSD'
+trademarks: '["freebsd", "netbsd", "general"]'
